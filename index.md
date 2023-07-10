@@ -43,8 +43,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pt9zTqvawDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My project is the phone-controlled robotic arm. The first week, I have built the robot as well as attached the controller, and uploaded the code to be able to use the controller to move the arm. Some challenges I faced were that the pieces included while building the arm were not very high quality and easy to break, and the final robot arm was pretty loose too. My plan for week 2 is to download the app and explore the code behind it, and get the app working and able to control the robot. In week 3, I am thinking about adding modifications in the code and maybe even the robot, such as making the robot being able to do 2 movements at once instead of only being able to do one movement at a time with a button. 
