@@ -29,7 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pl9lRqkuiug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For my second milestone, I have gotten the app to be able to control the robot arm and make it move with the buttons. This is done through a bluetooth module (HC-06) that is connected to the phone by bluetooth and plugged into the arduino uno. By uploading the code into the arduino uno, I can use the app on the phone to send instructions to the bluetooth module and control the robot. I faced a lot of challenges this milestone in getting the bluetooth module, the app, and the code to work. At first, I tried downloading BlueStacks on my mac, but then realized that the bluetooth module can't connect to a mac. I then downloaded the app on a Google Pixel, and had some problems with the app. When I tried to click a button on the app, it would show an error and after a while I realized that I needed to connect the module again. For my final milestone, I hope to be able to make the robot do multiple actions with one button and also replace the claw on the top of my robot with something else.
 
