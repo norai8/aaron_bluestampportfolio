@@ -11,20 +11,12 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 ![Headstone Image](logo.svg)  
 
-<!---
-# Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+# Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
--->
-
+Since my previous milestone, I've replaced the claw on the top of the robot to an LED light that is connected to the arduino, and also another red LED light on the side of the arduino. The red LED light, when the robot is turned on, blinks 3 times to let the user know that the arm is on. Both of the lights then are able to turn brighter and dimmer based on the servo's degree using PWM or pulse-width modulation, which in simple terms is controlling how long the light is on over a period of time. The longer percentage the light is on, the brighter the light will appear to be. My biggest challenge this milestone was getting both of the LEDs to actually turn on as I ran into a very weird problem, which was pin 10 not working. However, after moving around the servos and the lights, the servo is able to run on pin 10 but the light wasn't. In BSE, I learned about PWM, the bluetooth module, experience at mechanical engineering and building the robot, potentiometers, and the arduino. I hope to be able to learn more about each of the parts like the bluetooth module in more detail later on.
 
 
 # Second Milestone
