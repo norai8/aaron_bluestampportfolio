@@ -1,5 +1,4 @@
 # Phone Controlled Robot Arm
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 Hi! My name is Aaron, and I'm working on the phone controlled robotic arm project. The robot is moved with four servos that are connected to an Arduino Uno, and controlled by using an app that is able to communicate with the Arduino Uno through a bluetooth module, HC-06. I've learned a lot about the Arduino Uno this project, as well as gaining more knowledge about things such as the bluetooth module and how the controller is able to work. One of the most challenging parts of my project was figuring out why pin 10 was not working when connected to an LED light. Thank you for checking it out!
 
