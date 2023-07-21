@@ -29,17 +29,18 @@ For my second milestone, I have gotten the app to be able to control the robot a
 <img src="IMG_0172 (1).png" alt="drawing" width="200"/>
 <img src="IMG_0173 (1).png" alt="drawing" width="200"/>
 <img src="IMG_0174 (1).png" alt="drawing" width="200"/>
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lwgwVZSbTX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My project is the phone-controlled robotic arm. The first week, I have built the robot as well as attached the controller, and uploaded the code to be able to use the controller to move the arm. Some challenges I faced were that the pieces included while building the arm were not very high quality and easy to break, and the final robot arm was pretty loose too. My plan for week 2 is to download the app and explore the code behind it, and get the app working and able to control the robot. In week 3, I am thinking about adding modifications in the code and maybe even the robot, such as making the robot being able to do 2 movements at once instead of only being able to do one movement at a time with a button. 
-<!---
+
 # Schematics 
 Made by author
 
 <img src="Screen Shot 2023-07-21 at 1.50.54 PM.png" alt="drawing" height="400" width="800"/> 
--->
+
 # Code
 
 ```c++
