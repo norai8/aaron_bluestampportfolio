@@ -9,7 +9,7 @@ Hi! My name is Aaron, and I'm working on the phone controlled robotic arm projec
 | Aaron D. | Monta Vista High School | Computer Science | Incoming Junior
 
 
-![Headstone Image](logo.svg)  
+<img src="headshot.png" alt="drawing" width="200"/>
 
 
 # Final Milestone
