@@ -39,7 +39,7 @@ My project is the phone-controlled robotic arm. The first week, I have built the
 # Schematics 
 Made by author
 
-<img src="Screen Shot 2023-07-21 at 1.50.54 PM.png" alt="drawing" height="400" width="800"/> 
+<img src="Screen Shot 2023-07-21 at 1.50.54 PM.png" alt="drawing" height="400" width="600"/> 
 
 # Code
 
